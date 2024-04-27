@@ -1,5 +1,5 @@
 # avian_magrec_nn
-*A neural network project modelling avian magnetoreception systems. *
+*A neural network project modelling avian magnetoreception systems.*
 
 ## Abstract
 This study examines avian magnetoreception mechanisms and their implications for navigational behaviors, particularly focusing on migratory birds' ability to navigate back to a "home point" using geomagnetic cues. Utilizing a computational neuroscience approach, this project integrates biophysical models of magnetoreception into a neural network designed to simulate and predict avian navigation. Two primary receptors are explored: the "compass" receptor in the retina, which operates via a radical pair mechanism sensitive to specific light and magnetic field conditions, and a magnetite-based receptor in the upper beak, functioning as a magnetometer. The neural network model employs these inputs to create a directional path towards a designated home point. Methods include the generation of a synthetic 2-dimensional magnetic field and training the model with simulated avian sensory inputs. Results indicate that the model can effectively learn and mimic the navigation strategy, pointing to significant potential for further research into more biologically accurate neural models and their applications in understanding complex navigational systems in birds.
